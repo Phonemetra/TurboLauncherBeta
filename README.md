@@ -1,2 +1,2 @@
 # TurboLauncherBeta
-Turbo Launcher Beta
+Turbo Launcher® Beta
