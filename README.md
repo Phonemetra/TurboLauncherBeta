@@ -3,6 +3,7 @@
 <p align="center"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.phonemetra.turbo.launcher.beta"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="50%" width="50%"></a></p>
 
 [![License](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/Phonemetra/TurboLauncherBeta/master/LICENSE)
+
 ## License
 
     Copyright 2017 PHONEMETRA 
@@ -18,4 +19,3 @@
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
