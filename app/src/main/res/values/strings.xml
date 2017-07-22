@@ -22,53 +22,12 @@
     <!-- Application name -->
     <string name="app_name" translatable="false">Turbo Launcher</string>
     <string name="app_title" translatable="false">Turbo Launcher®</string>
-    <string name="app_version" translatable="false">0.0.15</string>
+    <string name="app_version" translatable="false">0.0.1</string>
     <string name="app_copyright" translatable="false">Copyright \u00A9 2013 – 2017 Phonemetra</string>
     <string name="app_beta">Beta</string>
 
     <string name="pref_title_build_info">Build</string>
     <string name="pref_title_turbo_version">Turbo Launcher Version</string>
-
-    <!-- Homescreen Settings -->
-    <string name="pref_title_home_screen_preferences">Home screen</string>
-    <string name="pref_summary_home_screen_preferences">Configure Home screen Layout and Bubble Text</string>
-
-    <string name="pref_title_screen_layout_category">Screen Layout</string>
-    <string name="pref_title_bubble_text_category">Bubble Text</string>
-
-    <string name="pref_bubble_text_size_title">Text size</string>
-    <string name="pref_bubble_text_size_summary">Select text size</string>
-
-    <string name="pref_bubble_text_color_title">Text color</string>
-    <string name="pref_bubble_text_color_summary">Select text color</string>
-
-    <!-- Drawer Settings -->
-    <string name="pref_title_drawer_preferences">Drawer</string>
-    <string name="pref_summary_drawer_preferences">Configure Apps Drawer</string>
-
-    <string name="pref_title_drawer_layout_category">Drawer Layout</string>
-
-    <string name="pref_drawer_background_color_title">Background color</string>
-    <string name="pref_drawer_background_color_summary">Select background color</string>
-
-    <!-- Dock Settings -->
-    <string name="pref_title_dock_preferences">Dock</string>
-    <string name="pref_summary_dock_preferences">Configure Dock</string>
-    <!-- Folder Settings -->
-    <string name="pref_title_folder_preferences">Folder</string>
-    <string name="pref_summary_folder_preferences">Configure Folder</string>
-    <!-- Theme Settings -->
-    <string name="pref_title_theme_preferences">Themes</string>
-    <string name="pref_summary_theme_preferences">Configure Themes</string>
-    <!-- Gesture Settings -->
-    <string name="pref_title_gesture_preferences">Gestures</string>
-    <string name="pref_summary_gesture_preferences">Configure Gestures</string>
-    <!-- Notifier Settings -->
-    <string name="pref_title_notifier_preferences">Notifier</string>
-    <string name="pref_summary_notifier_preferences">Configure Notifications</string>
-    <!-- Advanced Settings -->
-    <string name="pref_title_advanced_preferences">Advanced</string>
-    <string name="pref_summary_advanced_preferences">Configure Advanced</string>
 
     <!-- Default folder name -->
     <string name="folder_name"></string>
