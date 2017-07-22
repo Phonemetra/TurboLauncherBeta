@@ -106,10 +106,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-       
-        <!--
-       The settings activity. When extending keep the intent filter present
-       -->
         <activity
             android:name="com.phonemetra.turbo.launcher.beta.SettingsActivity"
             android:label="@string/settings_button_text"
@@ -133,6 +129,6 @@
             android:writePermission="com.phonemetra.turbo.launcher.beta.permission.WRITE_SETTINGS"
             android:readPermission="com.phonemetra.turbo.launcher.beta.permission.READ_SETTINGS" />
 
-            </application>
+    </application>
 
 </manifest>

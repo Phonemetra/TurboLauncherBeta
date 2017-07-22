@@ -86,9 +86,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.ads.AdListener;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.InterstitialAd;
 import com.phonemetra.turbo.launcher.beta.DropTarget.DragObject;
 import com.phonemetra.turbo.launcher.beta.LauncherSettings.Favorites;
 import com.phonemetra.turbo.launcher.beta.accessibility.LauncherAccessibilityDelegate;
@@ -219,8 +216,6 @@ public class Launcher extends Activity
     DragLayer mDragLayer;
     private DragController mDragController;
     private View mQsbContainer;
-
-    public View mWeightWatcher;
 
     private AppWidgetManagerCompat mAppWidgetManager;
     private LauncherAppWidgetHost mAppWidgetHost;

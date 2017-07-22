@@ -52,6 +52,5 @@
     <!-- Used as a fallback since colorSecondary doesn't exist pre-API 25 -->
     <color name="fallback_secondary_color">#FF37474F</color>
 
-    <!-- Color Picker -->
     <color name="transparent">#00FFFFFF</color>
 </resources>

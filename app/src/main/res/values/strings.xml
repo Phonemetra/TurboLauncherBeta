@@ -29,6 +29,12 @@
     <string name="pref_title_build_info">Build</string>
     <string name="pref_title_turbo_version">Turbo Launcher Version</string>
 
+    <!-- Homescreen Settings -->
+    <string name="pref_title_home_screen_preferences">Home screen</string>
+    <string name="pref_summary_home_screen_preferences">Configure Home screen Layout and Bubble Text</string>
+
+    <string name="pref_title_screen_layout_category">Screen Layout</string>
+
     <!-- Default folder name -->
     <string name="folder_name"></string>
     <!-- Work folder name -->

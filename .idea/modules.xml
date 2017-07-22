@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TurboLauncherBeta.iml" filepath="$PROJECT_DIR$/.idea/modules/TurboLauncherBeta.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Turbo Launcher 0.0.15 Beta.iml" filepath="$PROJECT_DIR$/Turbo Launcher 0.0.15 Beta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TurboLauncherBeta.iml" filepath="$PROJECT_DIR$/TurboLauncherBeta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
